@@ -1,4 +1,4 @@
-### Hi 👋 My name is Samuel Meirzon
+## Hi 👋 My name is Samuel Meirzon
 
 - 🌍 I'm based in Israel
 - ✉️ You can contact me at samuel.meirzon@gmail.com
