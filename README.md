@@ -8,7 +8,7 @@
 
 
 ## Badges
-[![](https://img.shields.io/youtube/channel/views/UChAHIuQ3-AkQcJcpM6WYefQ?style=social)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)
+[![](https://img.shields.io/youtube/channel/subscribers/UChAHIuQ3-AkQcJcpM6WYefQ?style=social)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)
 
 [![](https://img.shields.io/github/followers/samuel169518?style=social)](https://github.com/samuel169518)
 
