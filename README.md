@@ -11,7 +11,7 @@ I've been learning to code for 1 year. I love that so much and i want learn from
 - ⚡ At my free time I like to play CS:GO, and my guitar, be in GYM.
 
 
-## Badges
+## Fllow me
 [![](https://img.shields.io/youtube/channel/subscribers/UChAHIuQ3-AkQcJcpM6WYefQ?style=social)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)
 
 [![](https://img.shields.io/github/followers/samuel169518?style=social)](https://github.com/samuel169518)
