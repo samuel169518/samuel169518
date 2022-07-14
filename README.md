@@ -12,11 +12,9 @@ I've been learning to code for 1 year. I love that so much and i want learn from
 
 
 ## Fllow me
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuel169518)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/shotdown18) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31absv2n7esrhpt6wsko4tvsj6mu) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/samuel76561198280389095/)
 
-[![](https://img.shields.io/github/followers/samuel169518?style=social)](https://github.com/samuel169518)
 
-[![](https://img.shields.io/twitch/status/shotdown18?style=social)](https://www.twitch.tv/shotdown18)
 
 ## Littel bit stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel169518&theme=dark&show_icons=true)
