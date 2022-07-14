@@ -12,14 +12,11 @@ I've been learning to code for 1 year. I love that so much and i want learn from
 
 
 ## Fllow me
-[![](https://img.shields.io/youtube/channel/subscribers/UChAHIuQ3-AkQcJcpM6WYefQ?style=social)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UChAHIuQ3-AkQcJcpM6WYefQ)
 
 [![](https://img.shields.io/github/followers/samuel169518?style=social)](https://github.com/samuel169518)
 
 [![](https://img.shields.io/twitch/status/shotdown18?style=social)](https://www.twitch.tv/shotdown18)
 
 ## Littel bit stats
-
-[![](https://raw.githubusercontent.com/samuel169518/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/samuel169518/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/samuel169518/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/samuel169518/github-profile-summary-cards) [![](https://raw.githubusercontent.com/samuel169518/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/samuel169518/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/samuel169518/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/samuel169518/github-profile-summary-cards) [![](https://raw.githubusercontent.com/samuel169518/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/samuel169518/github-profile-summary-cards)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel169518&theme=dark&show_icons=true)
