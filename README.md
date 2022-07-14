@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Samuel Meirzon
 
 
-##Self-Taught Programmer
+###Self-Taught Programmer
 
 - 🌍 I'm based in Israel
 - ✉️ You can contact me at samuel.meirzon@gmail.com
