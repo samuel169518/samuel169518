@@ -1,7 +1,5 @@
 ### Hi 👋 My name is Samuel Meirzon
 
-
-###Self-Taught Programmer
 - 🌍 I'm based in Israel
 - ✉️ You can contact me at samuel.meirzon@gmail.com
 - 🧠 I'm learning C#, Pyhton, Bash, HTML, C(SOON)
