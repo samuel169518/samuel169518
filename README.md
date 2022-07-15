@@ -6,7 +6,7 @@ I've been learning to code for 1 year. I love coding so much and i want learn fr
 
 - 🌍 I'm based in Israel
 - ✉️ You can contact me at samuel.meirzon@gmail.com
-- 🧠 I'm learning C#, Pyhton, Bash, HTML, C(SOON) , SQL(little bit)
+- 🧠 I'm learning C#, Pyhton, Bash, HTML, C(SOON) , SQL(little bit), Access
 - 🤝 I'm open to collaborating on interesting projects
 - ⚡ At my free time I like to play CS:GO, and my guitar, be in GYM.
 
