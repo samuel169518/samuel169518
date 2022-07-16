@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Samuel Meirzon
 
 ## 🚀 About Me
-I've been learning to code for 1 year. I love coding so much and i want learn from anyone somthing new about coding.
+I've been learning to code for 1 year. I love coding so much and i to want learn from anyone somthing new about coding.
 
 
 - 🌍 I'm based in Israel
