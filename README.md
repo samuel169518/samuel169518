@@ -8,7 +8,7 @@ I've been learning to code for 1 year. I love coding so much and I want to learn
 - ✉️ You can contact me at samuel.meirzon@gmail.com
 - 🧠 I'm learning C#, Pyhton, Bash, HTML, C(SOON) , SQL(little bit), Access
 - 🤝 I'm open to collaborating on interesting projects
-- ⚡ At my free time I like to play CS:GO, and my guitar, be in GYM.
+- ⚡ At my free time I like to play CS:GO, and my guitar, be in the GYM.
 
 ## Skils
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
